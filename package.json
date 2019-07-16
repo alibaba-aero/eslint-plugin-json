@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-json",
+  "name": "@alibaba-aero/eslint-plugin-json",
   "version": "1.4.0",
   "description": "Lint JSON files",
   "keywords": [

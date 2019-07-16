@@ -15,7 +15,7 @@ $ npm i eslint --save-dev
 Next, install `eslint-plugin-json`:
 
 ```
-$ npm install eslint-plugin-json --save-dev
+$ npm install @alibaba-aero/eslint-plugin-json --save-dev
 ```
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-json` globally.
